@@ -34,4 +34,27 @@ console.log(users[7].password);
 console.log(users[8].password);
 console.log(users[9].password);
 
+let x = 3;
+let bRes=x!==0;
+console.log(bRes)
 
+
+let a={
+  title:``,
+  pageCount:``,
+  genre:``
+}
+let b={
+  title:``,
+  pageCount:``,
+  genre:``,
+}
+let  c={
+  title:``,
+  pageCount:``,
+  genre:``
+}
+let auther=[
+  {name:``,age:``},
+  {title:``, pageCount:``, genre:``}
+]
